@@ -1,0 +1,53 @@
+{
+  "as_of": "2026-10-13",
+  "sources": [
+    {
+      "id": "G01",
+      "title": "Google生成式搜尋指南",
+      "url": "https://developers.google.com/search/docs/fundamentals/ai-optimization-guide",
+      "kind": "official",
+      "status": "verified_document",
+      "last_checked": "2026-10-13"
+    },
+    {
+      "id": "G02",
+      "title": "Google生成式AI內容指引",
+      "url": "https://developers.google.com/search/docs/fundamentals/using-gen-ai-content",
+      "kind": "official",
+      "status": "verified_document",
+      "last_checked": "2026-10-13"
+    },
+    {
+      "id": "G03",
+      "title": "Google生成式搜尋成效報告",
+      "url": "https://support.google.com/webmasters/answer/16984139?hl=en",
+      "kind": "official",
+      "status": "verified_document",
+      "last_checked": "2026-10-13"
+    },
+    {
+      "id": "O01",
+      "title": "OpenAI爬蟲文件",
+      "url": "https://developers.openai.com/api/docs/bots",
+      "kind": "official",
+      "status": "verified_document",
+      "last_checked": "2026-10-13"
+    },
+    {
+      "id": "B01",
+      "title": "Bing AI Performance公告",
+      "url": "https://blogs.bing.com/webmaster/2026/2/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview/",
+      "kind": "official",
+      "status": "verified_document",
+      "last_checked": "2026-10-13"
+    },
+    {
+      "id": "R01",
+      "title": "GEO原研究v3",
+      "url": "https://arxiv.org/html/2311.09735v3",
+      "kind": "research",
+      "status": "verified_document",
+      "last_checked": "2026-10-13"
+    }
+  ]
+}

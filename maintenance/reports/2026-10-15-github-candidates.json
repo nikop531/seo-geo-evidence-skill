@@ -1,0 +1,80 @@
+{
+  "as_of": "2026-10-15",
+  "queries": [
+    "seo skill in:name,description archived:false fork:false",
+    "geo skill in:name,description archived:false fork:false",
+    "aeo skill in:name,description archived:false fork:false"
+  ],
+  "coverage": "complete_within_declared_pool",
+  "scope": "up to 20 per query; at most 12 repository trees; not global top 3",
+  "api_calls": 6,
+  "inspected": [
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "eligible_paths": 3
+    },
+    {
+      "repo": "AgriciDaniel/claude-seo",
+      "eligible_paths": 35
+    },
+    {
+      "repo": "zubair-trabzada/geo-seo-claude",
+      "eligible_paths": 16
+    }
+  ],
+  "candidates": [
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "stars": 54797,
+      "license": "MIT",
+      "pushed_at": "2026-10-14T21:21:00Z",
+      "tree_sha": "55ff469422c3592dac45bcad08dfb40221981c02",
+      "skill_paths": [
+        "skills/ai-seo/SKILL.md",
+        "skills/programmatic-seo/SKILL.md",
+        "skills/seo-audit/SKILL.md"
+      ],
+      "basis": "repository stars; skill content not yet reviewed"
+    },
+    {
+      "repo": "AgriciDaniel/claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "stars": 18958,
+      "license": "MIT",
+      "pushed_at": "2026-10-04T23:41:12Z",
+      "tree_sha": "4b99de2f7de7e7d5247042e5fb5b4ea9368ef734",
+      "skill_paths": [
+        "extensions/ahrefs/skills/seo-ahrefs/SKILL.md",
+        "extensions/banana/skills/seo-image-gen/SKILL.md",
+        "extensions/bing-webmaster/skills/seo-bing/SKILL.md",
+        "extensions/dataforseo/skills/seo-dataforseo/SKILL.md",
+        "extensions/firecrawl/skills/seo-firecrawl/SKILL.md",
+        "extensions/matomo/skills/seo-matomo/SKILL.md",
+        "extensions/profound/skills/seo-profound/SKILL.md",
+        "extensions/seranking/skills/seo-seranking/SKILL.md"
+      ],
+      "basis": "repository stars; skill content not yet reviewed"
+    },
+    {
+      "repo": "zubair-trabzada/geo-seo-claude",
+      "url": "https://github.com/zubair-trabzada/geo-seo-claude",
+      "stars": 11045,
+      "license": "MIT",
+      "pushed_at": "2026-10-15T06:42:13Z",
+      "tree_sha": "989cae01e8ebbc42a9ec798eb9e7cb423f5ec89c",
+      "skill_paths": [
+        "geo/SKILL.md",
+        "skills/geo-audit/SKILL.md",
+        "skills/geo-brand-mentions/SKILL.md",
+        "skills/geo-citability/SKILL.md",
+        "skills/geo-compare/SKILL.md",
+        "skills/geo-content/SKILL.md",
+        "skills/geo-crawlers/SKILL.md",
+        "skills/geo-llmstxt/SKILL.md"
+      ],
+      "basis": "repository stars; skill content not yet reviewed"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "SEO / GEO Evidence"
+  short_description: "以可追溯來源規劃 SEO、AI 搜尋呈現與內容量測，區分觀察、證據及建議"
+  default_prompt: "Use $seo-geo-evidence to review this page's SEO and AI search readiness with dated sources and clear validation steps."

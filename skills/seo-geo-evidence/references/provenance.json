@@ -1,0 +1,42 @@
+{
+  "initial_import": "2026-10-15",
+  "files": [
+    {
+      "file": "seo.md",
+      "sha256": "d4b4eb0411cd25c2f655aeabfe7ad7fa90e3e9c16f8df2e08f85b3c5f72b61ad",
+      "origin": "public-curated-knowledge-v2",
+      "as_of": "2026-10-13"
+    },
+    {
+      "file": "geo.md",
+      "sha256": "d649473c3aa53c906123a08e055b52bf6048e2513d51f81e580196ddf8b4c32a",
+      "origin": "public-curated-knowledge-v2",
+      "as_of": "2026-10-13"
+    },
+    {
+      "file": "ai-editorial.md",
+      "sha256": "5dd4d6652bed2fc6fda137ff9fcb49ad4e3f89c2e5ba5f56143c78acb30541e2",
+      "origin": "public-curated-knowledge-v2",
+      "as_of": "2026-10-13"
+    },
+    {
+      "file": "measurement.md",
+      "sha256": "bcc426f2ff4f8c1c38472a041116305f3abe14a7cc756b53c82fd08fc22d98c4",
+      "origin": "public-curated-knowledge-v2",
+      "as_of": "2026-10-13"
+    },
+    {
+      "file": "platform.md",
+      "sha256": "c4a75eda598209dede998872e483c529c57e26848d735dc4637f614c7e5b0e9d",
+      "origin": "public-curated-knowledge-v2",
+      "as_of": "2026-10-13"
+    },
+    {
+      "file": "sources.json",
+      "sha256": "46d1dccc72d1f589ffc22337c3ff83c5b4d7ced0052f277e755d36ef471f3b56",
+      "origin": "public-curated-knowledge-v2",
+      "as_of": "2026-10-13"
+    }
+  ],
+  "note": "Original summaries; external source materials are linked, not relicensed. Imported snapshot; no automatic sync with knowledge website."
+}
